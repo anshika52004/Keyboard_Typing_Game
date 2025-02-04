@@ -70,5 +70,5 @@ document.addEventListener("DOMContentLoaded", () => {
         alert(`Your accuracy score is ${accuracy.toFixed(2)}%.`);
     });
 
-    moveCursor(); // Initialize cursor position
+    moveCursor();
 });
